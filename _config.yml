@@ -105,7 +105,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-PX7BC56Q8B"
     anonymize_ip         : # true, false (default)
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Alex Mindustry"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Writer and blogger of the latest and greatest news and updates of AI in the world. What your startup or company here? Email us at info@supremacy.sg"
+  bio              : "Writer and blogger of the latest and greatest news and updates of AI in the world. What your startup or company here?"
   location         : "Singapore"
   email            : "info@supremacy.sg"
   links:
