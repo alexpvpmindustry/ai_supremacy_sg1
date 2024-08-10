@@ -1,0 +1,38 @@
+Company / Group Name,Website URL,Product Category / Services,Short Description,Company Headquarters,Founder's ASEAN origin,Company Size,Biggest Challenges You are Facing now,Is Fundraising?
+Recursal AI,"https://recursal.ai
+https://featherless.ai","- Foundation Model
+- Inference Platform","- Next Generation Foundation model with 100x lower inference cost
+- World's largest collection of OSS models, in a single API platform",SF / Delaware C Corp,Singapore,~10,"- Funding
+- Devrel / Marketing",Yes
+Reka AI,https://www.reka.ai/,- Foundation Model,"- First GPT4 class multimodel, supporting Asia languages",SF / Delaware C Corp,Singapore,~25,??,??
+Homebrew,"https://homebrew.ltd/
+https://jan.ai/","- Model Training & Finetuning Service
+- Local Inference Tooling","- AI Research lab, helping train and finetune models
+- Tooling to run AI models locally",??,??,??,??,No (Bootstrapped)
+Uilicious,https://uilicious.com,- AI Tooling (UI testing),"- Generation of automated UI tests from screenshots, mockups, and recordings.",Singapore / Pte Ltd,Singapore,<10,"- Funding
+- Devrel / Marketing",Yes
+Lucene,https://lucence.com,- Medical AI,"- Early cancer detection, powered by AI",SF / Delaware C Corp,Singapore,-,??,??
+Opilot AI,https://www.opilot.ai/,- AI Tooling (Code Copilot),- Privacy-first AI Agent,Singapore / Pte Ltd,Singapore,<10,- Customers / Sales,No
+Siftee,https://Siftee.io,- AI Tooling (ETL Pipeline),- Using GenAI tools to read payloads from APIs and generate the code to create ETL pipelines and ingest them automatically ,Singapore / Pte Ltd,Indonesia,<10,- Funding,Yes
+HiCura Medical Pte Ltd,https://hicuramedical.com/,- Medical AI,- AI-powered ultrasound guidance software for interventional procedures. Increases the first-needle puncture success rate of spinal anaesthesia and lumbar punctures,Singapore / Pte Ltd,Singapore,<10,"- Funding
+- International Expansion",Yes
+Kabana,https://usekabana.com/,- AI Application (Analytics),- Ecommerce Analytics for brands in SEA to extract quality insights and supercharge their business,Singapore / Pte Ltd,Singapore,1 - 5,- Customers / Sales,No
+Genta Technology,https://genta.tech/,- Inference Platform,"- LLM deployment and management platform. 4x faster than vLLM or Huggingface's TGI, reduce ownership cost, with better privacy and security. ",Indonesia,Indonesia,1 - 5,"- Funding
+- Marketing",Yes
+JigsawStack,https://jigsawstack.com/,- AI Tooling,- JigsawStack provides fine-tuned custom models that do the heavy lifting for APIs that exist in every tech stack,Singapore / Pte Ltd,Singapore,<10,- Marketing,Yes
+AIPath.one,https://www.aipath.one,"- AI Tooling
+- Consultancy Servcices","- AI driven, A/B testing of value propositions, ICPs, sales and marketing assets.",Singapore / Pte Ltd,Singapore,1 - 5,- Funding,Yes
+Rachit AI,https://rachit.ai/,- AI Application (Search),- Localized AI driven Search Engine for Southeast Asia 🌏,Singapore / Pte Ltd,Singapore,<10,??,??
+Ailytics ,https://ailytics.ai/,- Video Analytics Solutions (w/AI),- Video analytics solutions for heavy industries and harsh dynamic environments ,Singapore / Pte Ltd,Malaysia,15,- Hiring,-
+Locofy.ai,https://www.locofy.ai,"- Foundation Model (Design / Code)
+- AI Tooling (Design to Code)","- Converts Figma designs into frontend code in 1-click, using its Large Design Models",Singapore / Pte Ltd,Singapore,~20,- Commercialization,No
+8glabs Inc ,https://imagineapp.co,"- Foundation Model (Video)
+- AI Music Videos",- AI music video generator,SF / Delaware C Corp,Singapore,~10,"- Funding
+- Customers / Sales",Yes
+Bifrost AI,https://www.bifrost.ai/,"- Foundation Model (Image/Video)
+- AI Tooling
+- Training/Testing Data Generation","- Augmenting Image / Vidoe dataset with 3D assets, to improve model training process and quality",SF / Delaware C Corp,Singapore,~20,-,Yes
+Eezee,https://eezee.sg,"- AI Application (Procurement Automation)
+- Parts and procurement platform","- AI used to automate, your entire supply chain procurement process
+- Supply chain procurement and management platform",Singapore / Pte Ltd,Singapore,~80,"- Funding
+",Yes

@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Alex Mindustry"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Writer and blogger of the latest and greatest news and updates of AI in the world. What your startup or company here?"
+  bio              : "Writer and blogger of the latest and greatest news and updates of AI in the world. Want your startup or company here? Fill in the form at <a href='https://forms.gle/abfvnKuKA2WNZ7es7'>https://forms.gle/abfvnKuKA2WNZ7es7</a> "
   location         : "Singapore"
   email            : "info@supremacy.sg"
   links:
